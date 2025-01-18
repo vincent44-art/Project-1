@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+h2 {
+    color: blue;
+}
+
 /* Body and basic styles */
 body {
     font-family: Arial, sans-serif;
@@ -76,11 +80,13 @@ body {
 .products {
     background:url('images/image copy 7.png') no-repeat center center/cover;
     color: white;
+
 }
 
 .contact {
     background:url('images/image copy 2.png') no-repeat center center/cover;
     color: white;
+    
 }
 
 .footer {
@@ -114,3 +120,7 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
+
+
+
