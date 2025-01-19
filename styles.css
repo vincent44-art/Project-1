@@ -101,19 +101,4 @@ body {
 
 
 
-@media (max-width: 768px) 
- {
-    h1 {
-        font-size: 1.5rem;  /* Smaller font size on mobile */
-    }
-}
-
-@media (max-width: 480px) {
-    h1 {
-        font-size: 1.2rem;  /* Even smaller font size on very small devices */
-    }
-}
-
-
-
 
