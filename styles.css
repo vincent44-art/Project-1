@@ -103,7 +103,11 @@ img {
     height: 40px;  /* Set height to a fixed value */
     object-fit: cover; /* Resize and crop the image to cover the container */
 }
-
+ nav ul li a:hover {
+    background-color: #ff6347;
+    
+  }
+  
 
 
 
