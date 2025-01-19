@@ -98,6 +98,11 @@ body {
    color: white;
 }
 
+img {
+    width: 40px;
+    height: 40px;  /* Set height to a fixed value */
+    object-fit: cover; /* Resize and crop the image to cover the container */
+}
 
 
 
